@@ -4,7 +4,7 @@
 
 ## Özellikler
 
-- **Veritabanı Tasarımı**: React Flow kullanarak 1:1, 1:N ve N:N ilişkiler ile karmaşık veritabanı yapıları oluşturun.
+- **Veritabanı Tasarımı**: React Flow kullanarak 1:1, 1:N, N:N ve Self ilişkiler ile karmaşık veritabanı yapıları oluşturun.
 - **Next.js Proje Çıktısı**: Veritabanı tasarımınıza uygun olarak otomatik Next.js projesi çıktısı alabilirsiniz.
 - **Yönetim Paneli**: Ant Design ile özelleştirilebilir, kullanıma hazır bir yönetim paneli içerir.
 - **Otomatik API Rotası Oluşturma**: Veritabanı diyagramınıza uygun olarak otomatik API rotaları üretilir.
@@ -14,7 +14,7 @@
 
 1. [ForgeCRUD'a kaydolun](https://forgecrud.com/) ve giriş yapın.
 2. **Yeni Proje** oluşturun ve veritabanı yapınızı oluşturmak için React Flow tabanlı arayüzü kullanın.
-3. İlişkiler (1:1, 1:N, N:N) ekleyerek veritabanı yapınızı tamamlayın.
+3. İlişkiler (1:1, 1:N, N:N, Self) ekleyerek veritabanı yapınızı tamamlayın.
 4. Projeniz tamamlandığında, **Next.js Çıktısı** alarak veritabanı ve API entegrasyonlu bir projeye sahip olun.
 5. **Yönetim Paneli** sayesinde verilerinizi Chakra UI ile tasarlanmış kullanıcı dostu bir arayüzde yönetin.
 
