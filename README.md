@@ -35,3 +35,15 @@ ForgeCRUD ekibine önerilerinizi iletmek ve geri bildirimde bulunmak için [İle
 ## Lisans
 
 ForgeCRUD, kullanıcıların kolaylıkla projelerini oluşturmasına yardımcı olan ücretsiz bir hizmettir.
+
+## Ekran Görüntüleri
+
+Platformun sunduğu özelliklerin ekran görüntüleri aşağıda sıralanmıştır:
+
+![Adım 1: Proje Başlatma](images/p0.png)
+![Adım 2: Veritabanı Tasarımı](images/p1.png)
+![Adım 3: İlişki Ekleme](images/p2.png)
+![Adım 4: Prisma Schema Çıktısı](images/p3.png)
+![Adım 5: SQL Çıktısı](images/p4.png)
+![Adım 6: Next.js Projesi Çıktısı](images/p5.png)
+![Adım 7: Yönetim Paneli](images/p6.png)
