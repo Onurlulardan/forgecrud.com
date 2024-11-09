@@ -1,49 +1,49 @@
 # ForgeCRUD
 
-[ForgeCRUD](https://forgecrud.com/), yazılım geliştiriciler ve projelerine hızlı başlangıç yapmak isteyenler için geliştirilmiş bir veritabanı tasarım ve proje oluşturma platformudur. Platforma kaydolan kullanıcılar, veritabanı şemaları oluşturabilir ve bunları Next.js tabanlı bir projeye dönüştürebilir.
+[ForgeCRUD](https://forgecrud.com/) is a database design and project creation platform developed for software developers and those looking to kickstart their projects quickly. Registered users can create database schemas and transform them into a Next.js-based project.
 
-## Özellikler
+## Features
 
-- **Veritabanı Tasarımı**: React Flow kullanarak 1:1, 1:N, N:N ve Self ilişkiler ile karmaşık veritabanı yapıları oluşturun.
-- **Prisma Schema ve SQL Çıktısı**: Oluşturduğunuz veritabanı tasarımını **Prisma Schema** ve **SQL** formatında önizleyin ve çıktısını alın.
-- **Next.js Proje Çıktısı**: Veritabanı tasarımınıza uygun olarak otomatik Next.js projesi çıktısı alabilirsiniz.
-- **Yönetim Paneli**: Ant Design ile özelleştirilebilir, kullanıma hazır bir yönetim paneli içerir.
-- **Otomatik API Rotası Oluşturma**: Veritabanı diyagramınıza uygun olarak otomatik API rotaları üretilir.
-- **Rate Limiting**: API güvenliği için hız sınırlaması sağlar.
+- **Database Design**: Create complex database structures using React Flow with 1:1, 1:N, N:N, and Self relationships.
+- **Prisma Schema and SQL Output**: Preview and export your database design in **Prisma Schema** and **SQL** formats.
+- **Next.js Project Output**: Automatically generate a Next.js project based on your database design.
+- **Admin Panel**: Includes a ready-to-use admin panel, customizable with Ant Design.
+- **Automatic API Route Creation**: Automatically generates API routes based on your database diagram.
+- **Rate Limiting**: Provides rate limiting for API security.
 
-## Kullanım Adımları
+## Usage Steps
 
-1. [ForgeCRUD'a kaydolun](https://forgecrud.com/) ve giriş yapın.
-2. **Yeni Proje** oluşturun ve veritabanı yapınızı oluşturmak için React Flow tabanlı arayüzü kullanın.
-3. İlişkiler (1:1, 1:N, N:N, Self) ekleyerek veritabanı yapınızı tamamlayın.
-4. Tasarım tamamlandığında, **Prisma Schema** ve **SQL Çıktısı** önizleme butonları ile veritabanı şemanızın farklı formatlardaki çıktısını alabilirsiniz.
-5. Projeniz tamamlandığında, **Next.js Çıktısı** alarak veritabanı ve API entegrasyonlu bir projeye sahip olun.
-6. **Yönetim Paneli** sayesinde verilerinizi Ant Design ile tasarlanmış kullanıcı dostu bir arayüzde yönetin.
+1. [Sign up for ForgeCRUD](https://forgecrud.com/) and log in.
+2. Create a **New Project** and use the React Flow interface to design your database structure.
+3. Complete your database structure by adding relationships (1:1, 1:N, N:N, Self).
+4. Once your design is complete, use the **Preview Buttons** to view your database schema in **Prisma Schema** and **SQL** formats.
+5. When your project is ready, get the **Next.js Output** for a fully integrated project with a database and API.
+6. Manage your data in an intuitive interface designed with Ant Design using the **Admin Panel**.
 
-## ForgeCRUD'un Avantajları
+## Benefits of ForgeCRUD
 
-- **Hızlı Başlangıç**: Sıfırdan kurulum gerektirmeden, web tabanlı bir platformda projelerinizi başlatın.
-- **Özelleştirilebilirlik**: Projelerinize özel veritabanı yapıları ve API rotaları ile tam uyum sağlar.
-- **Prisma Schema ve SQL Desteği**: Tasarımlarınızı hem Prisma Schema hem de SQL formatında önizleyebilir ve çıktı alabilirsiniz.
-- **Kullanım Kolaylığı**: Basit, kullanıcı dostu arayüzü sayesinde karmaşık veritabanı yapılarını kolayca oluşturun.
-- **Esneklik**: İster sadece veritabanı tasarımı yapın, ister tüm projeyi Next.js çıktısı olarak alın.
+- **Quick Start**: Start your projects on a web-based platform without needing a full setup.
+- **Customizable**: Supports custom database structures and API routes tailored to your project needs.
+- **Prisma Schema and SQL Support**: Preview and export your designs in both Prisma Schema and SQL formats.
+- **Ease of Use**: A simple, user-friendly interface to easily create complex database structures.
+- **Flexibility**: Choose to use it solely for database design or as a complete Next.js project output.
 
-## Geri Bildirim ve Katkılar
+## Feedback and Contributions
 
-ForgeCRUD ekibine önerilerinizi iletmek ve geri bildirimde bulunmak için [İletişim](mailto:altuntasonur99@gmail.com) adresimizden ulaşabilirsiniz. Projeyi geliştirmek için önerilerinize açığız.
+To reach out to the ForgeCRUD team with suggestions or feedback, please contact us at [support email](mailto:altuntasonur99@gmail.com). We welcome contributions and suggestions to help improve the project.
 
-## Lisans
+## License
 
-ForgeCRUD, kullanıcıların kolaylıkla projelerini oluşturmasına yardımcı olan ücretsiz bir hizmettir.
+ForgeCRUD is a free service that helps users create projects with ease.
 
-## Ekran Görüntüleri
+## Screenshots
 
-Platformun sunduğu özelliklerin ekran görüntüleri aşağıda sıralanmıştır:
+Below are screenshots showcasing the features offered by the platform:
 
-![Adım 1: Proje Başlatma](images/p0.png)
-![Adım 2: Veritabanı Tasarımı](images/p1.png)
-![Adım 3: İlişki Ekleme](images/p2.png)
-![Adım 4: Prisma Schema Çıktısı](images/p3.png)
-![Adım 5: SQL Çıktısı](images/p4.png)
-![Adım 6: Next.js Projesi Çıktısı](images/p5.png)
-![Adım 7: Yönetim Paneli](images/p6.png)
+![Step 1: Start Project](images/p0.png)
+![Step 2: Database Design](images/p1.png)
+![Step 3: Add Relationships](images/p2.png)
+![Step 4: Prisma Schema Output](images/p3.png)
+![Step 5: SQL Output](images/p4.png)
+![Step 6: Next.js Project Output](images/p5.png)
+![Step 7: Admin Panel](images/p6.png)
