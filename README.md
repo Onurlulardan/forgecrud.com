@@ -27,7 +27,7 @@
 
 ## Geri Bildirim ve Katkılar
 
-ForgeCRUD ekibine önerilerinizi iletmek ve geri bildirimde bulunmak için [İletişim](mailto:support@forgecrud.com) adresimizden ulaşabilirsiniz. Projeyi geliştirmek için önerilerinize açığız.
+ForgeCRUD ekibine önerilerinizi iletmek ve geri bildirimde bulunmak için [İletişim](mailto:altuntasonur99@gmail.com) adresimizden ulaşabilirsiniz. Projeyi geliştirmek için önerilerinize açığız.
 
 ## Lisans
 
