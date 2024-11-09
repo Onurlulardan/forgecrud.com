@@ -6,9 +6,8 @@
 
 - **Veritabanı Tasarımı**: React Flow kullanarak 1:1, 1:N ve N:N ilişkiler ile karmaşık veritabanı yapıları oluşturun.
 - **Next.js Proje Çıktısı**: Veritabanı tasarımınıza uygun olarak otomatik Next.js projesi çıktısı alabilirsiniz.
-- **Yönetim Paneli**: Chakra UI ile özelleştirilebilir, kullanıma hazır bir yönetim paneli içerir.
+- **Yönetim Paneli**: Ant Design ile özelleştirilebilir, kullanıma hazır bir yönetim paneli içerir.
 - **Otomatik API Rotası Oluşturma**: Veritabanı diyagramınıza uygun olarak otomatik API rotaları üretilir.
-- **Analitik Takip**: Ackee ile entegrasyon sayesinde kullanıcı aktivitelerini takip edebilirsiniz.
 - **Rate Limiting**: API güvenliği için hız sınırlaması sağlar.
 
 ## Kullanım Adımları
