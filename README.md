@@ -47,3 +47,9 @@ Below are screenshots showcasing the features offered by the platform:
 ![Step 5: SQL Output](images/p4.png)
 ![Step 6: Next.js Project Output](images/p5.png)
 ![Step 7: Admin Panel](images/p6.png)
+
+## Output Project Semple
+
+![Step 7: Admin Panel](images/p7.png)
+![Step 7: Admin Panel](images/p8.png)
+![Step 7: Admin Panel](images/p9.png)
