@@ -16,7 +16,7 @@
 2. **Yeni Proje** oluşturun ve veritabanı yapınızı oluşturmak için React Flow tabanlı arayüzü kullanın.
 3. İlişkiler (1:1, 1:N, N:N, Self) ekleyerek veritabanı yapınızı tamamlayın.
 4. Projeniz tamamlandığında, **Next.js Çıktısı** alarak veritabanı ve API entegrasyonlu bir projeye sahip olun.
-5. **Yönetim Paneli** sayesinde verilerinizi Chakra UI ile tasarlanmış kullanıcı dostu bir arayüzde yönetin.
+5. **Yönetim Paneli** sayesinde verilerinizi Ant Design ile tasarlanmış kullanıcı dostu bir arayüzde yönetin.
 
 ## ForgeCRUD'un Avantajları
 
