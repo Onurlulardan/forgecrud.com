@@ -1,6 +1,6 @@
 # ForgeCRUD
 
-[ForgeCRUD](https://forgecrud.com/) is a database design and project creation platform developed for software developers and those looking to kickstart their projects quickly. Registered users can create database schemas and transform them into a Next.js-based project.
+[ForgeCRUD](https://forgecrud.io/) is a database design and project creation platform developed for software developers and those looking to kickstart their projects quickly. Registered users can create database schemas and transform them into a Next.js-based project.
 
 ## Features
 
@@ -13,7 +13,7 @@
 
 ## Usage Steps
 
-1. [Sign up for ForgeCRUD](https://forgecrud.com/) and log in.
+1. [Sign up for ForgeCRUD](https://forgecrud.io/) and log in.
 2. Create a **New Project** and use the React Flow interface to design your database structure.
 3. Complete your database structure by adding relationships (1:1, 1:N, N:N, Self).
 4. Once your design is complete, use the **Preview Buttons** to view your database schema in **Prisma Schema** and **SQL** formats.
